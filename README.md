@@ -1,11 +1,10 @@
 
 <div align="center">
   
-  # React + Vite
 
   <br />
   <br />
-
+    # React + Vite
   <h2 align="center">Employee Management </h2>
 
   Employee Management is a fully responsive  website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
