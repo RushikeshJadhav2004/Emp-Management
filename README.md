@@ -1,8 +1,7 @@
-# React + Vite
 
 <div align="center">
   
-  
+  # React + Vite
 
   <br />
   <br />
@@ -19,7 +18,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo]
+![Emp Desktop Demo]
 <br>
 ![Emp](https://github.com/user-attachments/assets/5a812fa1-b804-43a6-87ba-1e8e9c86c4bc)
 )
